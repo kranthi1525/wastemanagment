@@ -1,5 +1,6 @@
 flask
-numpy
+numpy==1.23.5
 pillow
-tensorflow
+tensorflow-cpu==2.12.0
 gunicorn
+flask-cors
